@@ -82,7 +82,3 @@ Planned improvements include a complete VuePress content hierarchy, navigation a
 ## Contributing
 
 Create focused branches from `main`, run `pnpm build`, validate CMS YAML after configuration changes, and describe any migration or operator action required by the pull request.
-
-## License and attribution
-
-This project is distributed under the [MIT License](LICENSE). Existing third-party notices and contributor attribution must remain intact.
