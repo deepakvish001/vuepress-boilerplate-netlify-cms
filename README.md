@@ -78,7 +78,3 @@ Use invite-only registration for non-public editorial teams, remove former edito
 ## Roadmap
 
 Planned improvements include a complete VuePress content hierarchy, navigation and sidebar configuration, searchable documentation, accessible layouts, content validation, media rules, preview templates, CMS collections, role guidance, automated link checks, build tests, security headers, dependency modernization, and continuous deployment checks.
-
-## Contributing
-
-Create focused branches from `main`, run `pnpm build`, validate CMS YAML after configuration changes, and describe any migration or operator action required by the pull request.
